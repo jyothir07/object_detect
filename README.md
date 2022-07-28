@@ -9,6 +9,7 @@ The objective is to predict the location and type of vehicle found in the scene 
   - Create an algorithm to identify the objects and classify.
 
 ## Data:
+Data is taken from a Kaggle competetion. For each image, the corresponding bbox annotations are available with same name as of the image in same folder.
 > Dataset Link: https://www.kaggle.com/datasets/pratikbarua/vehicle-detection-dataset
 
 ## Procedure:
